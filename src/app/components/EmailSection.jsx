@@ -51,7 +51,7 @@ const EmailSection = () => {
         </h5>
         <p className="text-[#ADB7BE] mb-4 max-w-md">
           
-          Estou em busca de novas oportunidades, meu email está sempre disponível para novos contatos. Deixo meu linkedin e github para maiores informações.
+          Estou em busca de novas oportunidades, meu email está disponível para novos contatos. Deixo meu linkedin e github para maiores informações.
         </p>
         <div className="socials flex flex-row gap-2">
           <Link href="https://github.com/rafaelsrv">
