@@ -7,12 +7,12 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "React Portfolio Website",
-    description: "Project 1 description",
-    image: "/images/projects/1.png",
+    title: "Lista de países",
+    description: "Descrição do projeto",
+    image: "/images/projects/projeto1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/rafaelsrv/PaisesEFronteiras_NEXTJS",
+    previewUrl: "https://infopaises.vercel.app/",
   },
   {
     id: 2,
