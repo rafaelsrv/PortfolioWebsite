@@ -16,12 +16,12 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Potography Portfolio Website",
-    description: "Project 2 description",
-    image: "/images/projects/2.png",
+    title: "Smile. Detector de expressões",
+    description: "Descrição do projeto",
+    image: "/images/projects/projeto2.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/rafaelsrv/webcamReact",
+    previewUrl: "https://react-cam-umber.vercel.app/",
   },
   {
     id: 3,
