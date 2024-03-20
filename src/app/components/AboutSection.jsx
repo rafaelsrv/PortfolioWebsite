@@ -60,11 +60,10 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">Sobre mim</h2>
           <p className="text-base lg:text-lg">
             Sou desenvolvedor web, comprometido em solucionar problemas de
-            maneira moderna e eficiente,tenho atuado na stack Front-End utilizando as
+            maneira moderna e eficiente, tenho atuado como desenvolvedor FullStack utilizando as
             mais diversas tecnologias de acordo com as demandas. Minha formação
             como engenheiro de controle e automação me permitiu um amplo
-            conhecimento em diversas áreas e linguagens de programação, hoje em dia,
-            com ênfase em desenvolvimento web Front-End.
+            conhecimento em diversas áreas e linguagens de programação.
 
           </p>
           <div className="flex flex-row justify-start mt-8">
